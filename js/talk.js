@@ -1,32 +1,32 @@
 let cardsTlk = document.querySelector('#talks .container > .cards');
 let talksObject = [
   {
-    image: `/assets/images/talks/img1.jpg`,
+    image: `/images/talks/img1.jpg`,
     title: `Lorem ipsum dolor sit, amet consectetur-Placeat, tenetur.`,
     description: `Lorem ipsum dolor sit amet, consectetur adipisicing elit....`,
     date: `09/10/2021`,
   },
   {
-    image: `/assets/images/talks/img2.jpg`,
+    image: `/images/talks/img2.jpg`,
     title: `Lorem ipsum dolor sit, amet consectetur-Placeat, tenetur.`,
     description: `Lorem ipsum dolor sit amet, consectetur adipisicing elit....`,
     date: `09/10/2021`,
   },
   {
-    image: `/assets/images/talks/img3.png`,
+    image: `/images/talks/img3.png`,
     title: `Lorem ipsum dolor sit, amet consectetur-Placeat, tenetur.`,
     description: `Lorem ipsum dolor sit amet, consectetur adipisicing elit....`,
     date: `09/10/2021`,
   },
   {
-    image: `/assets/images/talks/img4.png`,
+    image: `/images/talks/img4.png`,
     title: `Lorem ipsum dolor sit, amet consectetur-Placeat, tenetur.`,
     description: `Lorem ipsum dolor sit amet, consectetur adipisicing elit....`,
     date: `09/10/2021`,
   },
 
   {
-    image: `/assets/images/talks/img5.png`,
+    image: `/images/talks/img5.png`,
     title: `Lorem ipsum dolor sit, amet consectetur-Placeat, tenetur.`,
     description: `Lorem ipsum dolor sit amet, consectetur adipisicing elit....`,
     date: `09/10/2021`,

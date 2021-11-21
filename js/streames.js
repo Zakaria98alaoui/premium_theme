@@ -1,27 +1,27 @@
 // javaScript object for streames
 let streamsJSONObject = [
     {
-        image : `/assets/images/twitch/alexandra.png`,
+        image : `/images/twitch/alexandra.png`,
         title : `College + Career Find Your Passion with Alexandria Pigram`,
         date : `09/10/2021`
     },
     {
-        image : `/assets/images/twitch/brayan.png`,
+        image : `/images/twitch/brayan.png`,
         title : `Autocomplete with Algolia with Bryan Robinson`,
         date : `09/10/2021`
     },
     {
-        image : `/assets/images/twitch/debBie.png`,
+        image : `/images/twitch/debBie.png`,
         title : `From Vue to React with Debbie O'Brien`,
         date : `09/10/2021`
     },
     {
-        image : `/assets/images/twitch/franciesco.png`,
+        image : `/images/twitch/franciesco.png`,
         title : `Developer Advocacy with Francesco Ciulla`,
         date : `09/10/2021`
     },
     {
-        image : `/assets/images/twitch/jhonson.png`,
+        image : `/images/twitch/jhonson.png`,
         title : `Web Vibes with Vonta with DeVonta Johnson`,
         date : `09/10/2021`
     },
